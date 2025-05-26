@@ -1,5 +1,6 @@
 # SkyRoute - Sistema de gestion de pasajes
-# Autor: Lautaro Molina - DNI: 45244425
+# Autores: Lautaro Molina-DNI: 45244425 / Silvera Julián Andrés-DNI: 34914614 /Sánchez Rocío Eliana-DNI: 38646124 .
+  
 
 print("Bienvenidos a SkyRoute - Sistema de gestion de pasajes")
 clientes = []
